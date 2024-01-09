@@ -12,5 +12,5 @@ User-Friendly Interface: The app is designed with a simple and intuitive interfa
 Python API Integration: The app communicates with a Python API to retrieve accurate and up-to-date verb conjugation information. 
 The Python API handles the backend logic for processing and fetching conjugations.
 
-![image](https://github.com/BrLopes3/SwiftProject_ConjugationApp/assets/121700662/a00bfcda-6349-4729-929e-a68c23fe24dc)
+![image](https://github.com/BrLopes3/SwiftProject_ConjugationApp/assets/121700662/14f29d42-03b0-46ac-ad1a-6c7212c6ff7c)
 
