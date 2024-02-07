@@ -1,6 +1,6 @@
 
-#ConjugAction - French Verbs Conjugation
-Overview
+# ConjugAction - French Verbs Conjugation
+
 Welcome to the French Verb Conjugator App project! This iOS application is designed to assist users in conjugating French verbs effortlessly. 
 The app leverages a Python API to fetch conjugation details for the verbs entered by users.
 
